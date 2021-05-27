@@ -1,0 +1,15 @@
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe.Form1.resources
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.csproj.GenerateResource.cache
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.AssemblyInfoInputs.cache
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.AssemblyInfo.cs
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.csproj.CoreCompileInputs.cache
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.exe
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.deps.json
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.runtimeconfig.json
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.runtimeconfig.dev.json
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.dll
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.pdb
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.dll
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.pdb
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.genruntimeconfig.cache
+E:\Code Shit\TicTacToe2\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.csproj.AssemblyReference.cache
